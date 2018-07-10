@@ -20,13 +20,13 @@ Cross entropy and Adam optimizer is used as the loss function
 - learning_rate: 0.0009
 
 
-##Result
+###Result
 
 The loss function after 50 epochs was in the range of 0.03
 The network is able to classify roads vs non road pretty well.
 But it is not perfect
 
-## Image samples
+### Image samples
 
 ![image1](./umm_00042.png)
 ![image2](./umm_00040.png)
