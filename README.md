@@ -28,8 +28,8 @@ But it is not perfect
 
 ## Image samples
 
-![image1](sample_images/umm_00042.png)
-![image2](sample_images/umm_00040.png)
-![image3](sample_images/umm_00012.png)
-![image4](sample_images/umm_00070.png)
+![image1](umm_00042.png)
+![image2](umm_00040.png)
+![image3](umm_00012.png)
+![image4](umm_00070.png)
 
